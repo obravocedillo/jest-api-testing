@@ -1,6 +1,6 @@
 const app = require('./app');
 
 
-app.listen(3002,()=>{
-    console.log('Listening on port 3002');
+app.listen(8082,()=>{
+    console.log('Listening on port 8082');
 })
