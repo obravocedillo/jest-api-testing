@@ -1,3 +1,4 @@
+// host=servers-postgresql.cnqbtob29kka.us-west-2.rds.amazonaws.com password=GHA9Ajlk9S node index.js
 const express = require('express');
 const cors = require('cors')
 const app = express();
